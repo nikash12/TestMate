@@ -1,0 +1,21 @@
++----------------------------------------------+
+| 🧪 TestMate Logo         👤 Nikash (Profile) |
++----------------------------------------------+
+
+Sidebar                  |   Main View
+----------------------------------------------------------
+📁 Projects              |  📌 Selected Project: Flipkart Clone
+📋 My Test Cases         |  
+🧩 Modules               |  ➕ Add New Module
+🧾 Reports               |  ➕ Add New Test Case
+                         |  
+                         |  ✅ Test Case Table:
+                         |  ┌──────────────────────────────┐
+                         |  | TC# | Title       | Status   |
+                         |  |-----|-------------|----------|
+                         |  | 1   | Login Btn   | ✅ Pass  |
+                         |  | 2   | Cart Flow   | ❌ Fail  |
+                         |  | 3   | Payment     | 🚫 Block |
+                         |  └──────────────────────────────┘
+                         |
+                         | 🔍 Filter by: Status | Module | Priority
