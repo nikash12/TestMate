@@ -1,21 +1,25 @@
-+----------------------------------------------+
-| 🧪 TestMate Logo         👤 Nikash (Profile) |
-+----------------------------------------------+
++-----------------------------------------------------------+
+| 🧪 TestMate                        👤 Nikash (Profile)     |
++-----------------------------------------------------------+
 
-Sidebar                  |   Main View
-----------------------------------------------------------
-📁 Projects              |  📌 Selected Project: Flipkart Clone
-📋 My Test Cases         |  
-🧩 Modules               |  ➕ Add New Module
-🧾 Reports               |  ➕ Add New Test Case
-                         |  
-                         |  ✅ Test Case Table:
-                         |  ┌──────────────────────────────┐
-                         |  | TC# | Title       | Status   |
-                         |  |-----|-------------|----------|
-                         |  | 1   | Login Btn   | ✅ Pass  |
-                         |  | 2   | Cart Flow   | ❌ Fail  |
-                         |  | 3   | Payment     | 🚫 Block |
-                         |  └──────────────────────────────┘
-                         |
-                         | 🔍 Filter by: Status | Module | Priority
+Sidebar                           | Main Content
+-----------------------------------------------------------
+
+📁 Projects                       | 📌 Selected Project: Flipkart Clone
+  - Flipkart Clone               | 🧩 Modules in this project:
+  - GCal                         |   ▶️ Login Flow
+                                 |   ▶️ Cart Functionality
+📋 My Test Cases                 |
+🧩 Modules                       | ✅ Selected Module: Login Flow
+🧾 Reports                       | ➕ Add New Test Case
+                                 |
+                                 | 📋 Test Case Table:
+                                 | ┌──────────────────────────────────────────────┐
+                                 | | TC# | Title       | Status   | Priority     |
+                                 | |-----|-------------|----------|--------------|
+                                 | | 1   | Login Btn   | ✅ Pass  | 🟥 High       |
+                                 | | 2   | Cart Flow   | ❌ Fail  | 🟧 Medium     |
+                                 | | 3   | Payment     | 🚫 Block | 🟩 Low        |
+                                 | └──────────────────────────────────────────────┘
+                                 |
+                                 | 🔍 Filter by: [Status ▼] [Module ▼] [Priority ▼]
